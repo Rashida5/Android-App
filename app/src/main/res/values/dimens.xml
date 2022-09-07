@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_size_list_item">30sp</dimen>
+    <dimen name="text_size_personal_info">20sp</dimen>
+</resources>
